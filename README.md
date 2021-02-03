@@ -16,7 +16,7 @@ GUILD = Guildid
 MODMAIL_CATEGORY = "Name"
 ```
 ## Host
-I advise you to run the bot on the Ripl.it website ==[ForkProject]()==
+I advise you to run the bot on the Ripl.it website ==[ForkProject]( https://repl.it/github/KINGMAN1996/kingman-ticket-bot )==
 ###### powe ByKingman4hack ==[SUPPORT-SERVER]( https://discord.gg/gKA3Aenm )==
 ###### ===================**ARABIC DISCRIPRTION**================================
 # بوت تسكت 
@@ -37,5 +37,5 @@ GUILD = Guildid
 MODMAIL_CATEGORY = "Name"
 ```
 ## لتشغيل البوت 24 ساعة
-انصحك ان تستهدم منصة ريبل ات عبر الضغط هنا ===> ==[ForkProject]()==
+انصحك ان تستهدم منصة ريبل ات عبر الضغط هنا ===> ==[ForkProject]( https://repl.it/github/KINGMAN1996/kingman-ticket-bot )==
 ###### powe ByKingman4hack ==[SUPPORT-SERVER]( https://discord.gg/gKA3Aenm )==
