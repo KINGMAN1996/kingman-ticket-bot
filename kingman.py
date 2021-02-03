@@ -3,9 +3,25 @@ from discord.ext import commands
 import discord.utils
 from discord.utils import get
 from discord.ext.commands import CommandNotFound
-TOKEN = ("ODA2NTUyNDgzNjY0MzYzNTMx.YBrGiQ.SrVoAC1XIAYC-LrAA9uF_9J_8rA")
-GUILD = 804827461644189726
-MODMAIL_CATEGORY = "KM_TK"
+###########
+#Replit   #
+###########
+from flask import Flask
+from threading import Thread
+
+app=Flask("")
+
+@app.route("/")
+def index():
+    return "<h1>KINGMAN4HACK</h1>"
+
+Thread(target=app.run,args=("0.0.0.0",8080)).start()
+###########
+#KeepAlive#
+###########
+TOKEN = ("")
+GUILD = 1  # <====  Guild id 
+MODMAIL_CATEGORY = "" #<====  categroy name  
 prefix="."
 game = "DM to contact KINGAMNTEAM!"
 MODMAIL_REPLY = "Thank you for your message! Your message has been sent to our KINGAMNTEAM team, and we will contact you as soon as possible."
