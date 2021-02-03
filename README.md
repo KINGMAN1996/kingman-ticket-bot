@@ -19,7 +19,7 @@ MODMAIL_CATEGORY = "Name"
 I advise you to run the bot on the Ripl.it website ==[ForkProject]( https://repl.it/github/KINGMAN1996/kingman-ticket-bot )==
 ###### powe ByKingman4hack ==[SUPPORT-SERVER]( https://discord.gg/gKA3Aenm )==
 ###### ===================**ARABIC DISCRIPRTION**================================
-# بوت تسكت 
+# بوت تيكت 
 كينجمان تيكت هو بوت تيكت متتطور مكتوب بلغة البايثون و يقوم بحل مشكلة 
 انشاء اكثر من روم كتابي بنفس الوقت
 ما يسبب مشاكل لسيرفرات الاخرى
